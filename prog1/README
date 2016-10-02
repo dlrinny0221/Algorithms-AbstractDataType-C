@@ -1,0 +1,13 @@
+README file for decToBinary.c program
+
+Author/Editor: Yunyi Ding
+The decToBinary contains the following files:
+
+README: This is a documentation file
+intstack.c: The implementation of the intstack ADT
+intstack.h: The header file describing the ADT operations
+intstackdr.c: A simple driver program that is used to test out the ADT operation
+decToBinary.c: The main program created to do the algorithm: get the binary
+		value of a decimal value of a non-negative integer as a result
+myinclude.h: The header file that includes some operations, types, etc.
+Makefile: A makefile that is used to compile the module, driver, and the program	it makes intstack.o, decToBinary.o.
